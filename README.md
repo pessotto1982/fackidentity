@@ -1,2 +1,2 @@
-# fuckidentity
-Generatore di identità fasulle
+# FuckIdentity
+Generatore di identità italiane fasulle
